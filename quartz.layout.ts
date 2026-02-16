@@ -38,10 +38,22 @@ export const defaultContentPageLayout: PageLayout = {
         //{ Component: Component.ReaderMode() },
       ],
     }),
+    Component.DesktopOnly(
+      Component.RecentNotes({
+        showTags: false,
+        limit: 3
+      }),
+    ),
+    Component.LeftFooter({
+      links: {
+        "Tag Index": "/tags",
+        //Archive: "https://louisnel.co.nz/archive",
+      },
+    }),
     Component.Explorer(),
   ],
   right: [
-    Component.Graph(),
+    //Component.Graph(),
     Component.DesktopOnly(Component.TableOfContents()),
     Component.Backlinks(),
   ],

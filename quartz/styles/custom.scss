@@ -1,3 +1,37 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+.left {
+    @media all and not ($mobile) {
+        .explorer {
+            display: none;
+        }
+    }
+
+    @media all and ($mobile) {
+        .leftFooter {
+            display: none;
+        }
+    }
+}
+
+.leftFooter {
+    text-align: left;
+    opacity: 0.7;
+
+    & p {
+        margin-top: 0;
+    }
+
+    & ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+        margin-top: -1rem;
+    }
+}
