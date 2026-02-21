@@ -1,6 +1,6 @@
 ---
 created: 2025-02-02
-modified: 2025-02-19
+modified: 2026-02-19
 ---
 # Crystalloid
 
@@ -8,9 +8,10 @@ modified: 2025-02-19
 
 **Isotonic** solution of sodium chloride in water
 
-Simplest fluid replacement, normals saline can be given in a large bolus for rapid fluid resuscitation or as a maintenance fluid. There is a risk of hyperchloræmic acidosis from the high chloride concentration in NS. NS is also used as a vehicle in transfusion of blood products.
+This is the simplest fluid replacement, normal saline can be given in a large bolus for rapid fluid resuscitation or as a maintenance fluid. There is a risk of hyperchloraemic acidosis from the high chloride concentration in NS. NS is also used as a vehicle in transfusion of blood products.
 
 ## CSL/Hartmann’s (Ringer’s Lactate)
+
 **Isotonic** solution of sodium chloride, sodium lactate, potassium chloride, and calcium chloride in water
 
 CSL has electrolyte concentrations more similar to plasma and may be a better alternative to NS. The presence of calcium in the solution may cause precipitation of some compounds.
@@ -19,11 +20,11 @@ CSL has an alkalinising effect due to the presence of lactate. Also due to its l
 
 > [!important] Both NS and CSL may produce [hypernatraemia](Hypernatraemia) when used as a sole maintenance fluid as they provide no free water.
 
-## ==D4/5NS1/5 Dextrose in Normal Saline==
+## ==D4/5 NS1/5 Dextrose in Normal Saline==
 
 **Isotonic** solution of dextrose (4%) and sodium chloride (0.18%) in water. Dextrose/saline becomes **hypotonic** in vivo as the sugar is taken up by cells.
 
-Dex Saline is often the maintenance fluid of choice as it provides both electrolytes and free water, and better replaces obligatory fluid losses (both sensible and insensible). The addition of glucose may also help prevent catabolism in anorexic patients.
+Dextrose saline is often the maintenance fluid of choice as it provides both electrolytes and free water, and better replaces obligatory fluid losses (both sensible and insensible). The addition of glucose may also help prevent catabolism in anorexic patients.
 
 > [!important] Optimal maintenance would be ‘four and a fifth’ with potassium to cover the [daily potassium requirement](Daily%20electrolyte%20requirements) (1mmol/kg/day).
 
