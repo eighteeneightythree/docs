@@ -2,29 +2,42 @@
 tags:
   - medicine
   - procedures
-modified: 2026-02-11
+modified: 2026-03-18
 created: 2025-06-27
 ---
 Used as procedural sedation, these methods are used to sedate a patient in order to undertake procedure that would otherwise not be tolerated on account of pain or other discompliance.
 
 # Agents
 
-Agents with a rapid on- and offset are preferable as they provide sedation adequate for the conduction of the procedure without a significant lasting effect.
-## Anxiolytics
-Midazolam is the classical medication. Theoretically, other benzodiazepines could be used but their characteristics are not as suitable. It provides anxiolysis and sedation, and often induces amnesia as well. 
+Agents with a rapid onset and offset are preferable as they provide sedation adequate for the conduction of the procedure without a significant lasting effect.
 
-**Midazolam dosing**: 0.5-2.5mg, doses in excess of 5mg are not usually required.
+## Anxiolytics
+Midazolam is the classical medication. Theoretically, other benzodiazepines could be used but their characteristics are not as suitable. It provides anxiolysis and sedation, and often induces amnesia as well. Lorazepam and temazepam are useful anxiolytic agents when light sedation is required for things such as an MRI.
+
+> [!tldr] Midazolam 
+> - 0.5-2.5mg, doses in excess of 5mg are not usually required.
 
 ## Opiates
-### Ketamine
-### Fentanyl
+
+**Fentanyl** has both a rapid onset and short duration of action. It is typically used in combination with a benzodiazepine but significant increases the risk of respiratory depression.
+
+> [!tldr] Fetanyl 
+> - 0.5-1mcg/kg, with repeated dosing every couple of minutes to achieve adequate analgesia.
 
 ## Others
-### Propofol
+
+The use of the below medications is beyond the authors current scope...
+
+> [!tldr] Propofol 
+> - 0.5-1mg/kg, repeated every 2-3 minutes to achieve adequate sedation.
+
 ### Etomidate
+
 ### Nitrous oxide
+
 ### Dexmedetomidine
 
+### Ketamine
 
 
 # Further reading:

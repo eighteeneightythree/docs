@@ -1,6 +1,6 @@
 ---
 created: 2025-02-05
-modified: 2025-08-05
+modified: 2026-02-21
 ---
 A crossmatch is a general haematology test conducted to test recipient blood against potential blood products prior to administration. Strictly speaking, a crossmatch is the testing of red cells against serum; there are two types of crossmatch.
 
@@ -10,7 +10,7 @@ A crossmatch is a general haematology test conducted to test recipient blood aga
 
 # Immediate spin crossmatch
 An IS crossmatch is a rapid serological major crossmatch conducted by adding dilute donor red cells and recipient serum at room temperature, immediately centrifuging the tube, and then examining for agglutination. It principally detects ABO incompatibility.
-IS crossmatching is **only** suitable for patients in whom there is no evidence of clinically significant antibodies (typically two instances).
+IS crossmatching is **only** suitable for patients in whom there is no evidence of clinically significant antibodies (typically two instances of negative ABO incompatibility).
 # Electronic crossmatch
 An electronic crossmatch is an electronic alternative to immediate spin crossmatch. The New Zealand Blood Service conducts electronic crossmatching.
 # Anti-human globulin crossmatch

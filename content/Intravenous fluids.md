@@ -1,6 +1,6 @@
 ---
 created: 2025-02-02
-modified: 2026-02-19
+modified: 2026-02-21
 ---
 # Crystalloid
 
@@ -22,15 +22,20 @@ CSL has an alkalinising effect due to the presence of lactate. Also due to its l
 
 ## ==D4/5 NS1/5 Dextrose in Normal Saline==
 
-**Isotonic** solution of dextrose (4%) and sodium chloride (0.18%) in water. Dextrose/saline becomes **hypotonic** in vivo as the sugar is taken up by cells.
+**Isotonic** solution of dextrose (4%) and sodium chloride (0.18%) in water. Dextrose/saline becomes **hypotonic** *in vivo* as the sugar is taken up by cells.
 
 Dextrose saline is often the maintenance fluid of choice as it provides both electrolytes and free water, and better replaces obligatory fluid losses (both sensible and insensible). The addition of glucose may also help prevent catabolism in anorexic patients.
 
 > [!important] Optimal maintenance would be ‘four and a fifth’ with potassium to cover the [daily potassium requirement](Daily%20electrolyte%20requirements) (1mmol/kg/day).
 
+## D5 1/2NS Dextrose in half normal saline
+
+Also available is a **hypertonic** solution of dextrose (5%) in sodium chloride (0.45%), usually with added potassium (20mmol).
+
+Like the other dextrose solutions, this too becomes **hypotonic** in *vivo*
 ## D5W Dextrose in Water
 
-**Isotonic** solution of dextrose in water. Plain dextrose becomes **hypotonic** in vivo as the sugar is take up by cells
+**Isotonic** solution of dextrose in water. Plain dextrose becomes **hypotonic** *in vivo* as the sugar is take up by cells
 
 > [!important] Dextrose containing solutions cause an increase in insulin secretion which drives potassium into the cell and can precipitate [hypokalaemia](Hypokalaemia.md)
 
@@ -45,7 +50,7 @@ Human albumin is best left to those people that know what they are doing. What y
 This come from cows usually, perhaps one for the expert experts…
 
 # Blood products
-> [!important] Blood products should be [crossmatched](Crossmatching.md) before administration.
+> [!important] Blood products should be [crossmatched](Crossmatch.md) before administration.
 ## pRBC / Packed Red Cells
 
 **Packed red cells** are often administered in suspension and are indicated in significant blood loss and/or anaemia where hæmoglobin falls below 90g/L.

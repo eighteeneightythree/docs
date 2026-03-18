@@ -1,6 +1,8 @@
 ---
 created: 2025-02-14
-modified: 2025-11-18
+modified: 2026-02-22
+tags:
+  - medicine
 ---
 Starting in 1955, renaming of coagulation factors with roman numeral was agreed upon at various congresses. Consensus was reached on the naming of factors I to XII by 1962 and assignment of numerals ceased in 1963 with the addition of factor XIII.
 
@@ -24,8 +26,3 @@ Factor VI was found to be Va (accelerin) and is now unassigned.
 | XIII                            | Fibrin stabilising factor        |
 | Prekalikrein                    | Fletcher factor                  |
 | High-molecular-weight kininogen | Fitzgerald factor                |
-
-# Links:
-
----
-#medicine #history

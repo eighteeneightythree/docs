@@ -2,7 +2,7 @@
 tags:
   - medicine
 created: 2026-02-11
-modified: 2026-02-17
+modified: 2026-02-23
 aliases:
   - ITP
 ---
@@ -19,7 +19,5 @@ Thrombocytopenia (count <100e9/L) in the absence of any underlying cause. There 
 ## Secondary ITP
 
 Thrombocytopenia in the context of a proceeding or intercurrent illness, without some kind of other consumptive pathology like [[Disseminated intravascular coagulation|DIC]], is usually a result of antibody crossreactivity causing (mostly) splenic platelet clearance.
-
-# 
 
 # Further reading

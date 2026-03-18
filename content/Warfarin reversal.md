@@ -1,6 +1,6 @@
 ---
 created: 2025-02-14
-modified: 2025-10-07
+modified: 2026-02-23
 tags:
   - medicine
 ---
@@ -10,7 +10,7 @@ Vitamin K should be considered for patients with excessively raised INR or in th
 
 In clinically significant bleeding or in high risk patients, use of Prothrombinex is reasonable. It is also indicated if reversal is required for planned invasive procedures such as surgery.
 
-> [!nota]- NZ Blood has moved, or is moving, from Prothrombinex to Beriplex
+> [!warning] NZ Blood has moved from Prothrombinex to Beriplex
 > The dosages are much the same...
 
 ![[Pasted image 20250214190248.png]]

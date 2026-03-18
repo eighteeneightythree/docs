@@ -1,13 +1,13 @@
 ---
 created: 2025-02-13T21:34
-modified: 2025-08-31
+modified: 2026-03-08
 tags:
   - medicine
 ---
-Acute phase reactants are markers of inflammatory processes. They may be either positive or negative.
+Acute phase reactants are markers of inflammatory processes. They may be increased in acute inflammatory states (positive) or deceased (negative).
 
 # Positive reactants
-- CRP
+- [[C-reactive protein|CRP]]
 - Platelets
 - Ferritin
 - Fibrinogen

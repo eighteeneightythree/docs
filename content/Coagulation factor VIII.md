@@ -1,10 +1,10 @@
 ---
 created: 2025-02-14
-modified: 2025-04-04
+modified: 2026-03-08
 tags:
   - medicine
 ---
-Factor VIII, or antihaemophilic factor (A), is plasma glycoprotein that circulates in a complex with von Willebrand factor. It is about 330kDa.
+Factor VIII, or antihaemophilic factor (A), is a plasma glycoprotein that circulates in a complex with von Willebrand factor. It is about 330kDa.
 
 Its primary site of production is not clear; it is synthesised by endothelial cells of the liver and other organs.
 Congenital (or acquired) deficiency of FVIII is the cause of haemophilia A.

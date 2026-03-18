@@ -2,7 +2,7 @@
 tags:
   - medicine
 created: 2025-11-11
-modified: 2026-01-15
+modified: 2026-02-22
 ---
 The World Health Organization keeps a list of essential medicines. It contains over 500 medicines and can be downloaded as a (74 page) PDF from the WHO website. There is also an [electronic version](https://list.essentialmeds.org/).
 
@@ -11,11 +11,13 @@ The World Health Organization keeps a list of essential medicines. It contains o
 But it will have some of them, along with any interesting factoids.
 If you want to use a drug and the dose isn't here (or isn't immediately obvious) you should probably get into the room somebody that is more familiar with the drug. Referencing in this note is intentionally sparse as it would be lengthy and no more helpful than a selection of good textbooks.
 
+> [!info] Additions to this list will henceforth come when the author learns something interesting enough to write about.
+
 Most drugs will have a skeletal formula as well as an accompanying table.  In the table:
 - **On** is the onset of action (not necessarily the time to appreciable serum concentrations)
 - **Off** is the author's small brained synthesis of things such as the duration of action and the half-life
 
-\[w] next to the heading is a **warning**: the drug may have serious of irreversible adverse effects, or it requires some other flavour of caution.
+\[w] next to the heading is a **warning**: the drug may have serious or irreversible adverse effects, or it requires some other flavour of caution.
 
 \[b] next to the heading indicates a specific brand.
 
@@ -47,9 +49,9 @@ Or as the Americans call it, epinephrine. It is an endogenous catecholamine that
 By Roland Mattern - Public Domain, [link](https://commons.wikimedia.org/w/index.php?curid=5902493)
 
 
-| On      | Off           | Metabolisation                                       | Elimination |
-| ------- | ------------- | ---------------------------------------------------- | ----------- |
-| Seconds | A few minutes | Adrenergic synapse:<br>*Monoamine oxidase*<br>*COMT* | Urine       |
+| On      | Off           | Metabolisation                                      | Elimination |
+| ------- | ------------- | --------------------------------------------------- | ----------- |
+| Seconds | A few minutes | Adrenergic synapse<br>*Monoamine oxidase*<br>*COMT* | Urine       |
 
 # Allopurinol
 
@@ -198,15 +200,15 @@ Neuromuscular blockade has been reported in cats receiving doses in excess of fo
 # Lidocaine
 
 > [!tldr] Dosing 
-> - Dose1
+> - No more than 4mg/kg (without adrenaline), or 6mg/kg (with adrenaline) as required for local anaesthetic infiltration.
 
 ![[Pasted image 20251124224145.png]]
 By Harbin - Public Domain, [link](https://commons.wikimedia.org/w/index.php?curid=671844)
 
 
-| On                                                   | Off     | Metabolism | Elimination |
-| ---------------------------------------------------- | ------- | ---------- | ----------- |
-| Up to 30 mins<br>*Usually 5-10 mins for field block* | 2 hours |            |             |
+| On                                                   | Off     | Metabolism                              | Elimination |
+| ---------------------------------------------------- | ------- | --------------------------------------- | ----------- |
+| Up to 30 mins<br>*Usually 5-10 mins for field block* | 2 hours | Liver<br>*CYP1A2 <br>CYP3A4 <br>CYP2A6* | Urine       |
 
 
 # Naloxone
@@ -221,9 +223,9 @@ It appears the only trade name in regular use is Narcan. Naloxone is a competiti
 By Fvasconcellos - Public Domain, [link](https://commons.wikimedia.org/w/index.php?curid=4734145)
 
 
-| On       | Off    | Metabolism                            | Elimination |
-| -------- | ------ | ------------------------------------- | ----------- |
-| 1-2 mins | 1 hour | Liver<br>UDP-glucuronosyltransferases | Urine       |
+| On       | Off    | Metabolism                              | Elimination |
+| -------- | ------ | --------------------------------------- | ----------- |
+| 1-2 mins | 1 hour | Liver<br>*UDP-glucuronosyltransferases* | Urine       |
 
 Naloxone is also available as a nasal spray at a dose of 1.8g and may be stocked by a nearby establishment incase you ever need it.
 
@@ -231,7 +233,7 @@ There is no evidence that it causes dependence, nor other untoward effects if ad
 
 # Novorapid \[b]
 
-Also manufactured by [[Novo Nordisk]], Novorapid is insulin aspart. It is another recombinant insulin produced in *saccharomyces cerevisiae*. Insulin aspart has a single aspartic acid substitution ([[Protein sequence nomenclature|p.Pro28Asp]]). Together with insulin glulisine (Apidra by [[Sanofi]]), and insulin lispro (Humalog by Eli Lilly), it is a rapid acting insulin with a shorter duration of action.
+Also manufactured by [[Novo Nordisk]], Novorapid is insulin aspart. It is another recombinant insulin produced in *saccharomyces cerevisiae*. Insulin aspart has a single aspartic acid substitution ([[Protein sequence nomenclature|p.Pro28Asp]]). Together with insulin glulisine (Apidra by [[Sanofi]]), and insulin lispro (Humalog by Eli Lilly), it is a rapid acting insulin with a short duration of action.
 
 > [!tldr] Dosing 
 > - According to requirements.
@@ -252,7 +254,7 @@ Spironolactone is a non-selective mineralocorticoid antagonist: or an aldosteron
 ![[Pasted image 20251118204509.png]]
 By NEUROtiker - Public Domain, [link](https://commons.wikimedia.org/w/index.php?curid=4141963)
 
-Regardless of whether or not spironolactone is biologically active, its half life is under two hours which makes it a rubbish drug for one daily pill taking. How convenient then, that it is a prodrug for active metabolites with much more respectable half-lives (in excess of 12 hours). The 7ɑ-\[*whatever*] metabolites, of which there are many, produce the therapeutic effects. The most important are 7α-thiomethylspironolactone and canrenone. 
+Regardless of whether or not spironolactone is biologically active, its half life is under two hours which makes it a rubbish drug for once daily pill taking. How convenient then, that it is a prodrug for active metabolites with much more respectable half-lives (in excess of 12 hours). The 7ɑ-\[*whatever*] metabolites, of which there are many, produce the therapeutic effects. The most important are 7α-thiomethylspironolactone and canrenone. 
 
 
 | On           | Off         | Metabolism               | Elimination |

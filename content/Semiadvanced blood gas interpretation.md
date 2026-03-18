@@ -1,6 +1,6 @@
 ---
 created: 2025-03-27
-modified: 2025-07-20
+modified: 2026-02-23
 tags:
   - medicine
 ---
@@ -9,11 +9,11 @@ Presented below is a vaguely systematic approach to the interpretation of a bloo
 ![[interpretationOfArterialBloodGasses.png]]
 # pH
 Is the patient acidotic or alkalotic. Normal is 7.35-7.45. 
-The author wonders if, technically speaking, the pH may be normal in either condition, the normal pH just represents the absence of alkalaemia or acidaemia; or is it the other way around?
+The author wonders if, technically speaking, the pH may be normal in either condition, and the normal pH just represents the absence of alkalaemia or acidaemia; or is it the other way around?
 
 # pCO2 and \[HCO3]
-If there is an acid/base disturbance is the pCO2 contributing to it or reacting to it?
-What is the bicarbonate doing, this is the metabolic component. The standard base excess probably gives a better picture here, but for simplicity's sake if it is elevated there is metabolic alkalosis and if it is decreased there is metabolic acidosis.
+If there is an acid/base disturbance, is the pCO2 contributing to it or reacting to it?
+What is the bicarbonate doing? This is the metabolic component. The standard base excess probably gives a better picture here, but for simplicity's sake, if bicarbonate is elevated there is metabolic alkalosis and if it is decreased there is metabolic acidosis.
 
 # pO2
 This number is unlikely to be of much use in quantifying the acid/base problems. It does, however, give vital information on *oxygenation* ([[Respiratory failure|but not ventilation]]). 
