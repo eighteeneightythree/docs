@@ -1,7 +1,0 @@
-`[command]` description.
-
-```bash
-
-```
-
-# Options
