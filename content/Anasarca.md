@@ -1,11 +1,11 @@
 ---
 created: 2025-02-26
-modified: 2025-07-21
+modified: 2026-08-22
 tags: medicine
 ---
 Anasarca is a severe global oedema caused by the accumulation of fluid in the interstitial space.
 
-It have varied aetiologies and can arise through several mechanisms that ultimately lead to a change in the [[starling principle]]: the equation really only providing for alteration of the oncotic or hydrostatic gradients. The permeability coefficient could also change but this is not likely to be the problem.
+It has varied aetiologies and can arise through several mechanisms that ultimately lead to a changes in line with the [[starling principle]]: the equation really only providing for alteration of the oncotic or hydrostatic gradients. The permeability coefficient could also change but this is not likely to be the problem.
 
 ![[Starling principle#^203f02]]
 

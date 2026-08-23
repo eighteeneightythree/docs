@@ -1,6 +1,6 @@
 ---
 created: 2025-02-13
-modified: 2025-03-07
+modified: 2026-05-24
 tags:
   - medicine
 ---
@@ -14,5 +14,6 @@ While fludarabine does not have direct antimetabolite activity against AML, its 
 
 It is often followed by two cycles of [[HiDAC chemotherapy]] [[Chemotherapy#consolidation|consolidation]].
 
-# Links:
-- [[03.02.2025 0851]] 
+# Further reading:
+- 
+- 347-Acute myeloid leukaemia FLAG-Ida (fludarabine cytarabine iDArubicin and filgrastim) | eviQ [Internet]. [cited 2026 May 24]. Available from: [https://www.eviq.org.au/haematology/leukaemias/acute-myeloid-leukaemia/347-acute-myeloid-leukaemia-flag-ida-fludarabine](https://www.eviq.org.au/haematology/leukaemias/acute-myeloid-leukaemia/347-acute-myeloid-leukaemia-flag-ida-fludarabine)

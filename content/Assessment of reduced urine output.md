@@ -1,6 +1,6 @@
 ---
 created: 2025-02-06
-modified: 2025-08-05
+modified: 2026-08-22
 tags:
   - medicine
 ---
@@ -12,7 +12,7 @@ The normal urine output is approximately 1mL/kg/h, which puts the average normal
 
 > [!none] Rule out catheter blockage before testing
 
-# Required tests:
+# Routine tests:
 - Volume status
 - Urine dipstick
 - Urine

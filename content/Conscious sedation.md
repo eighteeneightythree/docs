@@ -26,7 +26,7 @@ Midazolam is the classical medication. Theoretically, other benzodiazepines coul
 
 ## Others
 
-The use of the below medications is beyond the authors current scope...
+The use of the below medications is beyond the author's current scope...
 
 > [!tldr] Propofol 
 > - 0.5-1mg/kg, repeated every 2-3 minutes to achieve adequate sedation.

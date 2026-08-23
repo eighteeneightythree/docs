@@ -2,7 +2,7 @@
 tags:
   - medicine
 created: 2026-02-14
-modified: 2026-02-15
+modified: 2026-03-21
 ---
 Palliative care medications are targeted at symptom management and titrated according to response and PRN use. Generally, the combination of medications target pain, nausea, and agitation. The goal is not sedation of the patient though this is probably an effect of sedating medicines at higher dosages.
 
@@ -39,6 +39,11 @@ PRN medications as below should be left on the chart for breakthrough symptoms a
 
 > [!none] 1.25-2.5mg *quaque 4 hora pro re nata*
 > The PRN dose for patients currently on continuous infusion is usual 1/10-1/6 of the total daily dose.
+
+## Fentanyl
+
+> [!none] 12.5-25mcg *quaque 2 hora pro re nata*
+> 
 
 ## Levomepromazine
 
